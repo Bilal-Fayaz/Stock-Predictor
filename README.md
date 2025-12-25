@@ -31,7 +31,7 @@ The **AI Market Intelligence Engine** is not just a chart; it is a **Decision Su
 ---
 
 ## 📸 Dashboard Preview
-*(![](![](F:\My Projects\Stock-Predictor\screenshots\dashboard.png)))*
+![Dashboard Screenshot](screenshots/dashboard.png)
 > *Phase 1 Dashboard showing Linear Regression Trend Line on Historical Data.*
 
 ---
