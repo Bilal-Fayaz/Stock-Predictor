@@ -95,12 +95,12 @@
   }
 }</component>
   <component name="RunManager" selected="CMake Application.StockPredictor">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="StockPredictor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StockPredictor" TARGET_NAME="StockPredictor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StockPredictor" RUN_TARGET_NAME="StockPredictor">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockPredictor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StockPredictor" TARGET_NAME="StockPredictor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StockPredictor" RUN_TARGET_NAME="StockPredictor">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -171,6 +171,7 @@
       <workItem from="1766665227942" duration="418000" />
       <workItem from="1766665683084" duration="51000" />
       <workItem from="1766665770570" duration="209000" />
+      <workItem from="1766666281627" duration="86000" />
     </task>
     <servers />
   </component>
