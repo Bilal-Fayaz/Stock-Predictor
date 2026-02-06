@@ -138,6 +138,5 @@ StockPredictor/
 
 *Computer Science Student @ NUTECH Islamabad*
 
-[LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/bilal-fayaz-391837382) • [GitHub Profile](https://www.google.com/search?q=https://github.com/Bilal-Fayaz)
 
 </div>
